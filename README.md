@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Pour toi mon Cœur ❤🫂
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -246,7 +246,7 @@ footer {
     <footer>
         FAIT AVEC AMOUR ♥
         <br>
-        10 NOVEMBRE 2026
+        07 NOVEMBRE 2026
     </footer>
 
 </div>
